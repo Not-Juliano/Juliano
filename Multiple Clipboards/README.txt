@@ -1,0 +1,1 @@
+a quick way to store information of copy/paste data with some JSON.
